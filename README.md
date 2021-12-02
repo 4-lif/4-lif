@@ -14,7 +14,7 @@ ingfo = (
  - facebook    : facebook.com/hikmal jr 
  - fanspage    : -
  - whatsap     : 082335699611
- - github      : github.com/mal/jr.py
+ - github      : github.com/4-lif
  - script name : ZFI (Zona  Facebook Indonesia)
  - version     : 1.1
  
